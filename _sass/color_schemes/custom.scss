@@ -1,0 +1,47 @@
+//
+// Colors
+//
+$black: #001528;
+$midnightblue: #01203c;
+$mediumblue: #0146c7;
+$darkslategray: #15314b;
+$seablue: #12416d;
+$silver: #bfc5c9;
+$violet: #626ee3;
+$yellowgreen: #99d231;
+$darken-violet: darken($violet, 3%);
+
+$body-background-color: $black;
+$sidebar-color: $midnightblue;
+$search-background-color: $black;
+$table-background-color: $black;
+$code-background-color: $midnightblue;
+$feedback-color: lighten($sidebar-color, 3%);
+
+$body-text-color: $silver;
+$body-heading-color: $white;
+$search-result-preview-color: $white;
+$nav-child-link-color: $silver;
+$link-color: $yellowgreen;
+$btn-primary-color: $violet;
+$base-button-color: $mediumblue;
+
+.search-input {
+    color: $white;
+}
+
+.site-button {
+    background-color: $seablue;
+    color: $white;
+}
+
+//
+// Borders
+//
+$border-color: $darkslategray;
+
+//
+// Grid system
+//
+$nav-width: 264px;
+$content-width: 950px;
