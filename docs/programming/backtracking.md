@@ -19,9 +19,9 @@ Backtracking is one of the complete search, aka brute force techniques. Basicall
 Backtracking is usually implemented recursively. That's why we usually hear the term "recursive backtracking". So how does it work? Imagine we have a tree. Starting with a root node, we choose a path to explore downwards. If we haven't found the solution, we backtrack and explore a path in the subtree. See figures below.
 
 <p float="left">
-  <img src="../../images/programming/backtrack1.PNG" width="250" alt="explore path" title="explore path" hspace="20"/>
-  <img src="../../images/programming/backtrack2.PNG" width="250" alt="backtrack" title="backtrack" hspace="25"/>
-  <img src="../../images/programming/backtrack3.PNG" width="250" alt="explore path in subtree" title="explore path in subtree"/>
+  <img src="../../images/programming/backtracking/backtrack1.PNG" width="250" alt="explore path" title="explore path" hspace="20"/>
+  <img src="../../images/programming/backtracking/backtrack2.PNG" width="250" alt="backtrack" title="backtrack" hspace="25"/>
+  <img src="../../images/programming/backtracking/backtrack3.PNG" width="250" alt="explore path in subtree" title="explore path in subtree"/>
 </p>
 
 This looks very much the same as Depth First Search (DFS) algorithm. In fact, if we implement DFS recursively, we need to use backtracking technique. Below is a Python DFS code that explores all paths from a given source in a graph.
@@ -121,6 +121,11 @@ One of the classic examples of using backtracking is the 8 queens problem. The p
 
 A naive solution would generate all possible positions for 8 queens without checking. There are $$ _{64}C_{8} $$ possibilities. If we check a cell before placing a queen on it, it will reduce the number of possibilities significantly. Specically, we know each queen will occupy 1 row and 1 column, so the number of checkings will equal to the number of permutations of $$ row = [1,3,5,7,2,0,6,4] $$, which is $$ 8! $$. If we further optimize the code by inspecting the 2 diagonal lines, the number of checkings will be less than $$ 8! $$. In general, the time complexity will be sub $$ O(n!) $$.
 
+<div style="text-align:center">
+    <img src="../../images/programming/backtracking/eight-queens.PNG" />
+    <p style="font-style: italic;">3 solutions to 8 queens problem from Wikipedia</p>
+</div>
+
 ### $$ N $$ queens problem
 
 $$ N $$ queens problem is a general version of the 8 queens problem. The question asks you to place $$ N $$ queens on an $$ N \times N $$ chessboard such that no 2 queens attack each other.
@@ -156,6 +161,7 @@ dfs(0)
 return ans
 ```
 
-### Reference
+### References
 
 1. [Competitive Programming 4](https://cpbook.net/){:target="_blank"} book, section 3.2.3
+2. [Eight queens puzzle](https://en.wikipedia.org/wiki/Eight_queens_puzzle){:target="_blank"} from Wikipedia

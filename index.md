@@ -15,10 +15,8 @@ _"Jabberwocky" is a nonsense poem written by Lewis Carroll about the killing of 
 
 ### Hi there!
 
-It all started with a challenge from my friend, Nhi. She challenged me to write about what I learned in the last 2 months in 600 words. Instead of diving into writing, I spent 2 days on creating this blogging website. Who knows, I may need a place to store bunch of my writings in the future, or I may end up with 1 post. We will see.
+It all started with a challenge from my friend, Nhi. She challenged me to write about what I learned in the last 2 months in 600 words. Instead of diving into writing, I spent 2 days on creating this blogging website. Who knows, I may need a place to store bunch of my writings in the future, or I may end up with 1 post. We'll see.
 
-I am interested in programming, especially competitive programming. Well, I am currently a newbie, but my goal is to become red on Codeforces. So most of my posts here will be my summaries or reviews about algorithms/data structures I learned, and interesting problems I encountered. Mainly I write for myself. If you find my posts helpful then great!
+I'm interested in programming, especially competitive programming. Well, I'm currently a newbie, but my goal is to become red on Codeforces. So most of my posts here will be my summaries or reviews about algorithms/data structures I learned, and interesting problems I encountered. Even though I mainly write for myself, I'm happy to see your comments. If you find my posts helpful then great! Since I'm not an expert in programming, there may be some flaws here and there. If you notice any, please feel free to leave a comment or create a pull request by clicking `Edit this page on GitHub` at the bottom of the post that needs to be fixed.
 
-I am not an expert in programming, so there may be some flaws here and there. If you notice any, please feel free to create a pull request by clicking `Edit this page on GitHub` at the bottom of the post that needs to be fixed.
-
-Thank you for visiting!
+Thanks for visiting!
