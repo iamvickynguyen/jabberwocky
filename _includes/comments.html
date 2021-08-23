@@ -1,0 +1,15 @@
+<!-- Reference: https://github.com/benzyx/benzyx.github.io/blob/master/_includes/utterances-comment.html -->
+
+<!-- _includes/utterances-comment.html -->
+{% if site.utterance.repo and site.utterance.issue-term  %}
+<!--  # you can going to https://jekyllrb.com/docs/variables/#page-variables find more page variables as a label. -->
+<script src="https://utteranc.es/client.js"
+        repo="{{site.utterance.repo }}"
+        issue-term="{{ site.utterance.issue-term }}"
+        theme="{{ site.utterance.theme}}"
+        label="{{ page.url }}"
+        crossorigin="anonymous"
+        async>
+</script>
+
+{% endif %}

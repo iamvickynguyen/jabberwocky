@@ -1,13 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
 # If you need help with YAML syntax, here are some quick references for you: 
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
@@ -44,7 +34,6 @@ back_to_top_text: "Back to top"
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y by Vicky Nguyen" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
-
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub"
@@ -53,22 +42,13 @@ gh_edit_branch: "master" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+
+# To use Utterance comments,  you can going to https://utteranc.es/ get more parameters interpretation.
+utterance:
+  # Note: Make sure the repo is public, otherwise your readers will not be able to view the issues/comments.
+  # Make sure the [utterances app](https://github.com/apps/utterances) is installed on the repo, otherwise users will not be able to post comments.
+  #  If your repo is a fork, navigate to it's settings tab and confirm the issues feature is turned on.
+  repo: iamvickynguyen/jabberwocky # Choose the repository utterances will connect to. eg: owner/repo
+  issue-term: title   # Choose the mapping between blog posts and GitHub issues. 
+  theme: dark-blue # Choose an Utterances theme that matches your blog. 'github-light' is default
+  label: blog-comments # Choose the label that will be assigned to issues created by Utterances.
