@@ -41,6 +41,11 @@ Rule: reduce meat/fish as much as you can
 | --- | --- |
 | - Sandwich bread<br>- 2 Eggs<br>- Letuce<br>- Tomato<br>- Mayonnaise<br>- Ketchup<br>- Salt<br>- Black pepper | - Toast sandwiches<br>- Fry 2 eggs<br>- Spread the mayo and ketchup on 2 slices of bread<br>- Place letuce, tomato slices, and fried eggs on the bread<br>- Sprinkle a bit of salt and pepper |
 
+<div style="text-align:center">
+    <img src="../../images/random/quick-food/egg-sandwich.JPG" width="500"/>
+    <p style="font-style: italic;">Egg sandwich</p>
+</div>
+
 
 ### Mushroom & Ricotta White Pizza
 
@@ -73,7 +78,18 @@ Rule: reduce meat/fish as much as you can
 *Reference: https://www.themediterraneandish.com/mushroom-pasta-recipe/*
 
 
-### [CURRIED CHICKPEAS WITH SPINACH](https://www.budgetbytes.com/curried-chickpeas-spinach/)
+### Lentil Spinach Curry
+
+| Ingredients | Instructions |
+| --- | --- |
+| - Canned lentils (you can also use chickpeas)<br>- Garlic<br>- Onion<br>- Curry powder<br>- Paprika (or any spicy powder)<br>- Tomato paste<br>- Salt<br>- Tumeric<br>- Cumin<br>- Spinach | - Sauté chopped onion and garlic for 1 minute in an instant pot<br>- Add curry powder, paprika, cumin, salt and sauté for around 30 seconds<br>- Pour the lentils into the garlic onion mixture pot<br>- Canned lentils usually have water in them so you don't need to add water; otherwise, add a bit of water in the pot<br>- Add tomato paste<br>- Change the instant pot mode to pressure cook and wait for 20 minutes<br>- Turn off the instant pot and add the spinach and stir for 1-2 minutes |
+
+*Reference: https://www.budgetbytes.com/curried-chickpeas-spinach/*
+
+<div style="text-align:center">
+    <img src="../../images/random/quick-food/lentil-spinach.JPG" width="500"/>
+    <p style="font-style: italic;">Spinach lentil curry with rice</p>
+</div>
 
 
 ### [SPICY TOFU LETTUCE WRAPS](https://damndelicious.net/2013/01/04/spicy-tofu-lettuce-wraps/)
