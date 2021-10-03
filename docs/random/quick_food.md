@@ -12,14 +12,16 @@ math: mathjax2
 1. TOC
 {:toc}
 
-I don't like cooking. Also going to the grocery store is a pain. However I need food to survive and function well.  
+*Insert something here...*
 
 I prefer food that is:
 - Quick and easy to make
 - Nutritious
 - Cheap
 
-Rule: reduce meat/fish as much as you can
+This MMM guy has a good [post](https://www.mrmoneymustache.com/2012/03/29/killing-your-1000-grocery-bill/){:target="_blank"} on how to save money on grocery shopping
+
+These recipes have been tested by me :)
 
 ### Overnight Oats
 
@@ -64,9 +66,12 @@ Rule: reduce meat/fish as much as you can
 
 | Ingredients | Instructions |
 | --- | --- |
-| - Firm tofu<br>- Broccoli<br>- Pasta (any kind)<br>- Tomato sauce<br>- Black pepper | - Put pasta in boil water and leave it for 5 minutes (depending on the type of pasta)<br>- Throw broccoli in boil water with pasta and wait for another 4 minutes<br>- Cut tofu into small cubes and fry them<br>- Combine tofu, broccoli and pasta<br>- You can cook the pasta sauce a bit and add it in the pasta<br>- Sprinkle a bit of black pepper on top |
+| - Firm tofu<br>- Broccoli<br>- Pasta (any kind)<br>- Tomato sauce<br>- Garlic<br>- Bread crumbs | - Put pasta in boil water and leave it for 9 minutes (depending on the type of pasta)<br>- Cut tofu into small cubes, dip in bread crumbs, then fry them<br>- Cut the broccoli - Combine tofu, broccoli and pasta<br>- You can cook the pasta sauce a bit and add it in the pasta<br>- Sprinkle a bit of black pepper on top |
 
-*Reference: https://www.shelikesfood.com/tofu-broccoli-pasta/*
+<div style="text-align:center">
+    <img src="../../images/random/quick-food/tofu-spaghetti.JPG" width="500"/>
+    <p style="font-style: italic;">Tofu Broccoli Pasta</p>
+</div>
 
 
 ### Mushroom Pasta
@@ -91,12 +96,35 @@ Rule: reduce meat/fish as much as you can
     <p style="font-style: italic;">Spinach lentil curry with rice</p>
 </div>
 
+### Tofu Stir-Fry
 
-### [SPICY TOFU LETTUCE WRAPS](https://damndelicious.net/2013/01/04/spicy-tofu-lettuce-wraps/)
+| Ingredients | Instructions |
+| --- | --- |
+| Tofu<br>- Firm tofu<br>- Breadcrumbs<br>- Oil | - Dip small chunks of tofu in the breadcrumbs<br>- Fry them with oil until golden |
+| Stir fry<br>- Garlic<br>- Ginger<br>- Broccoli<br>- Bell pepper<br>- Salt | - Sauté chopped garlic and ginger until fragrant<br>- Add a bit of salt<br>- Stir in string broccoli and bell pepper for about 8 minutes |
+| Sauce<br>- Soy sauce<br>- Sesame oil<br>- Cornstarch<br>- Sugar<br>- Water | - Mix soy sauce, sesame oil, water, sugar, and cornstarch<br>- Throw fried tofu chunks into the stir fry skillet<br>- Add sauce mixture to pan<br>- Stir until the sauce is thickened |
 
-### [Fried rice](https://tasty.co/recipe/healthier-fried-rice)
+*Reference: https://www.delish.com/cooking/recipe-ideas/a26090091/tofu-stir-fry-recipe*
 
-### [Tofu Stir-Fry](https://www.delish.com/cooking/recipe-ideas/a26090091/tofu-stir-fry-recipe/)
+<div style="text-align:center">
+    <img src="../../images/random/quick-food/saute-tofu.JPG" width="500"/>
+    <p style="font-style: italic;">Tofu Stir-Fry</p>
+</div>
+
+
+### Fried rice
+
+| Ingredients | Instructions |
+| --- | --- |
+| - Garlic<br>- Black pepper<br>- Cooked rice<br>- Broccoli<br>- Carrots<br>- Peas<br>- Soy sauce<br>- Mushrooms<br>- Oil<br>- Salt | - Sauté chopped garlic until fragrant<br>- Add chopped broccoli and carrots with a bit of salt and black pepper and stir for about 5 minutes<br>- Add chopped mushrooms and peas and stir for another 5 minutes<br>- Add cooked rice and a bit of soy sauce and stir until everything is well cooked
+
+*Reference: https://tasty.co/recipe/healthier-fried-rice*
+
+<div style="text-align:center">
+    <img src="../../images/random/quick-food/fried-rice.JPG" width="500"/>
+    <p style="font-style: italic;">Fried rice</p>
+</div>
+
 
 ### Snacks
 
@@ -104,7 +132,3 @@ Rule: reduce meat/fish as much as you can
 - Fruits (apples, bananas, oranges, grapes, etc.)
 - Nuts
 - Baby carrots
-
-
-
-
