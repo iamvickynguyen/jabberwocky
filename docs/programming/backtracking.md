@@ -2,7 +2,7 @@
 layout: default
 title: Backtracking
 parent: Programming
-last_modified_date: now
+last_modified_date: 2021-09-24
 math: mathjax2
 ---
 
