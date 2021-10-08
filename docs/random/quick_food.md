@@ -23,17 +23,15 @@ This MMM guy has a good [post](https://www.mrmoneymustache.com/2012/03/29/killin
 
 These recipes have been tested by me :)
 
-### Overnight Oats
+### Oats with fruits and milk
 
 | Ingredients | Instructions |
 | --- | --- |
-| - Oats<br>- Milk<br>- Yogurt<br>- Optional: fruits (apples, bananas, etc.) | - Combine oats, milk, and yogurt<br>- Cover the container, put it in the fridge, and leave it overnight<br>- Take it out in the morning. You can add in some bananas with cinamon, or some apple slices |
-
-*Reference: https://www.fivehearthome.com/overnight-oats-3-ways-pb-banana-raspberry-nutella-coconut-almond/*
+| - Oats<br>- Milk<br>- Fruits (apples, bananas, etc.) | - Combine oats, milk, some fruits like banana slices with cinamon, or   apple slices or grapes |
 
 <div style="text-align:center">
     <img src="../../images/random/quick-food/oats.JPG" width="500"/>
-    <p style="font-style: italic;">Banana cinnamon overnight oats</p>
+    <p style="font-style: italic;">Oats with apples, grapes and milk</p>
 </div>
 
 
@@ -74,13 +72,18 @@ These recipes have been tested by me :)
 </div>
 
 
-### Mushroom Pasta
+### Mushroom Spaghetti
 
 | Ingredients | Instructions |
 | --- | --- |
-| - Pasta (any kind)<br>- Mushroom<br>- Tomato sauce<br>- Garlic<br>- Butter<br>- Salt<br>- Black pepper | - Put pasta in boil water and leave it for 9 minutes (depending on the type of pasta)<br>- Sauté chopped garlic with a bit of oil and butter<br>- Add mushrooms in the skillet<br>- Spinkle a bit of salt and pepper<br>- Once the mushrooms release their juices, add tomato sauce, and a bit of pasta cooking water. Stir for 5 minutes<br>- Combine pasta and mushrooms sauce |
+| - Spaghetti <br>- Mushroom<br>- Tomato sauce<br>- Garlic<br>- Butter<br>- Salt<br>- Black pepper | - Put pasta in boil water and leave it for 9 minutes (depending on the type of pasta)<br>- Sauté chopped garlic with a bit of oil and butter<br>- Add mushrooms in the skillet<br>- Spinkle a bit of salt and pepper<br>- Once the mushrooms release their juices, add tomato sauce, and a bit of pasta cooking water. Stir for 5 minutes<br>- Combine pasta and mushrooms sauce |
 
 *Reference: https://www.themediterraneandish.com/mushroom-pasta-recipe/*
+
+<div style="text-align:center">
+    <img src="../../images/random/quick-food/mushroom-spaghetti.JPG" width="500"/>
+    <p style="font-style: italic;">Mushroom Spaghetti</p>
+</div>
 
 
 ### Lentil Spinach Curry

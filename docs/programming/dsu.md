@@ -13,6 +13,23 @@ math: mathjax2
 {:toc}
 
 **Disjoint Set Union (DSU)** or is also called **Union Find** because of its 2 main operations.
+Problem: 
+
+### How does it work?
+
+#### make
+#### find
+#### union
+
+### Path compression
+
+### Union by size vs union by rank
+
+### Time complexity
+
+### Applications
+
+- Kruskal
 
 ### References
 
