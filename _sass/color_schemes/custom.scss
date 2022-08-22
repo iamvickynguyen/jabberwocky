@@ -1,44 +1,41 @@
 //
 // Colors
 //
-$black: #001528;
-$midnightblue: #01203c;
-$mediumblue: #0146c7;
-$darkslategray: #15314b;
-$seablue: #12416d;
-$silver: #bfc5c9;
-$violet: #626ee3;
-$yellowgreen: #99d231;
-$darken-violet: darken($violet, 3%);
+$white: #d9d9d9;
+$black: #272727;
+$totalblack: #000000;
+$gray: #747474;
+$orange: #ff652f;
+$green: #14a76c;
 
 $body-background-color: $black;
-$sidebar-color: $midnightblue;
+$sidebar-color: $black;
 $search-background-color: $black;
-$table-background-color: $midnightblue;
-$code-background-color: $midnightblue;
-$feedback-color: lighten($sidebar-color, 3%);
+$table-background-color: $totalblack;
+$code-background-color: $totalblack;
+$feedback-color: lighten($black, 3%);
 
-$body-text-color: $silver;
-$body-heading-color: $white;
+$body-text-color: $white;
+$body-heading-color: $orange;
 $search-result-preview-color: $white;
-$nav-child-link-color: $silver;
-$link-color: $yellowgreen;
-$btn-primary-color: $violet;
-$base-button-color: $mediumblue;
+$nav-child-link-color: $orange;
+$link-color: $green;
+$btn-primary-color: $green;
+$base-button-color: $orange;
 
 .search-input {
     color: $white;
 }
 
 .site-button {
-    background-color: $seablue;
-    color: $white;
+    background-color: $green;
+    color: $black;
 }
 
 //
 // Borders
 //
-$border-color: $darkslategray;
+$border-color: $totalblack;
 
 //
 // Grid system
