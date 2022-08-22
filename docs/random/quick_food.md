@@ -34,6 +34,29 @@ These recipes have been tested by me :)
     <p style="font-style: italic;">Oats with apples, grapes and milk</p>
 </div>
 
+### Egg Mayo Sandwich
+
+| Ingredients | Instructions |
+| --- | --- |
+| - Sandwich bread<br>- Eggs<br>- Letuce<br>- Mayonnaise<br>- Salt<br>- Pepper | - Boil the eggs<br>- Mix boiled eggs with mayo<br>- Spread the mixture on one slice of bread<br>- Sprinkle a bit of salt and pepper |
+
+### Banana Peanut Butter Sandwich
+
+| Ingredients | Instructions |
+| --- | --- |
+| - Banana(s)<br>- Peanut butter<br>- Sandwich bread | - Spread the peanut butter on 2 slices of bread<br>- Place banana slices on the bread |
+
+### Chicken Broccoli Potatoes
+
+| Ingredients | Instructions |
+| --- | --- |
+| - Chicken thigh<br>- Broccoli<br>- Potatoes (any) | - Steam the chicken, broccoli, and potatoes<br> |
+
+### Pesto Chickpea Salad
+
+| Ingredients | Instructions |
+| --- | --- |
+| - Canned Chickpeas<br>- Basil pesto<br>- Mayonnaise | - Rinse and drain the chickpeas<br>- Add mayo, pesto, and chickpeas to a bowl and mix them well |
 
 ### Egg Sandwich
 
