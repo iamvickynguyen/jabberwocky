@@ -22,6 +22,7 @@ remote_theme: pmarsceill/just-the-docs
 color_scheme: custom
 plugins:
   - jekyll-feed
+  - jemoji
 
 # Footer content
 # appears at the bottom of every page's main content

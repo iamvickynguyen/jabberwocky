@@ -1,18 +1,16 @@
 ---
 layout: default
-title: Quick Food
+title: Simple Food
 parent: Random
 last_modified_date: now
 math: mathjax2
 ---
 
-# Quick Food
+# Simple Food (if I can make it, so can you)
 {: .no_toc }
 
 1. TOC
 {:toc}
-
-*Insert something here...*
 
 I prefer food that is:
 - Quick and easy to make
@@ -21,7 +19,7 @@ I prefer food that is:
 
 This MMM guy has a good [post](https://www.mrmoneymustache.com/2012/03/29/killing-your-1000-grocery-bill/){:target="_blank"} on how to save money on grocery shopping
 
-These recipes have been tested by me :)
+These recipes have been tested by me :slightly_smiling_face:
 
 ### Oats with fruits and milk
 
@@ -30,7 +28,7 @@ These recipes have been tested by me :)
 | - Oats<br>- Milk<br>- Fruits (apples, bananas, etc.) | - Combine oats, milk, some fruits like banana slices with cinamon, or   apple slices or grapes |
 
 <div style="text-align:center">
-    <img src="../../images/random/quick-food/oats.JPG" width="500"/>
+    <img src="../../images/random/simple-food/oats.JPG" width="500"/>
     <p style="font-style: italic;">Oats with apples, grapes and milk</p>
 </div>
 
@@ -58,6 +56,17 @@ These recipes have been tested by me :)
 | --- | --- |
 | - Canned Chickpeas<br>- Basil pesto<br>- Mayonnaise | - Rinse and drain the chickpeas<br>- Add mayo, pesto, and chickpeas to a bowl and mix them well |
 
+### Black Beans Salad
+
+| Ingredients | Instructions |
+| --- | --- |
+| - Canned black beans<br>- Frozen corn<br>- Tomatoes<br>- Cucumber (optional)<br>- Olive oil<br>- Vinegar (or lime juice)<br>- Sugar<br>- Salt and pepper<br>- Basil pesto (optional) | - Mix everything together |
+
+<div style="text-align:center">
+    <img src="../../images/random/simple-food/blackbeans.JPG" width="500"/>
+    <p style="font-style: italic;">Black beans salad (I ate a few then realized I should take a picture)</p>
+</div>
+
 ### Egg Sandwich
 
 | Ingredients | Instructions |
@@ -65,7 +74,7 @@ These recipes have been tested by me :)
 | - Sandwich bread<br>- 2 Eggs<br>- Letuce<br>- Tomato<br>- Mayonnaise<br>- Ketchup<br>- Salt<br>- Black pepper | - Toast sandwiches<br>- Fry 2 eggs<br>- Spread the mayo and ketchup on 2 slices of bread<br>- Place letuce, tomato slices, and fried eggs on the bread<br>- Sprinkle a bit of salt and pepper |
 
 <div style="text-align:center">
-    <img src="../../images/random/quick-food/egg-sandwich.JPG" width="500"/>
+    <img src="../../images/random/simple-food/egg-sandwich.JPG" width="500"/>
     <p style="font-style: italic;">Egg sandwich</p>
 </div>
 
@@ -79,7 +88,7 @@ These recipes have been tested by me :)
 *Reference: https://www.freshprep.ca/recipes/1034*
 
 <div style="text-align:center">
-    <img src="../../images/random/quick-food/pizza.JPG" width="500"/>
+    <img src="../../images/random/simple-food/pizza.JPG" width="500"/>
     <p style="font-style: italic;">Mushroom & ricotta white pizza</p>
 </div>
 
@@ -90,7 +99,7 @@ These recipes have been tested by me :)
 | - Firm tofu<br>- Broccoli<br>- Pasta (any kind)<br>- Tomato sauce<br>- Garlic<br>- Bread crumbs | - Put pasta in boil water and leave it for 9 minutes (depending on the type of pasta)<br>- Cut tofu into small cubes, dip in bread crumbs, then fry them<br>- Cut the broccoli - Combine tofu, broccoli and pasta<br>- You can cook the pasta sauce a bit and add it in the pasta<br>- Sprinkle a bit of black pepper on top |
 
 <div style="text-align:center">
-    <img src="../../images/random/quick-food/tofu-spaghetti.JPG" width="500"/>
+    <img src="../../images/random/simple-food/tofu-spaghetti.JPG" width="500"/>
     <p style="font-style: italic;">Tofu Broccoli Pasta</p>
 </div>
 
@@ -104,7 +113,7 @@ These recipes have been tested by me :)
 *Reference: https://www.themediterraneandish.com/mushroom-pasta-recipe/*
 
 <div style="text-align:center">
-    <img src="../../images/random/quick-food/mushroom-spaghetti.JPG" width="500"/>
+    <img src="../../images/random/simple-food/mushroom-spaghetti.JPG" width="500"/>
     <p style="font-style: italic;">Mushroom Spaghetti</p>
 </div>
 
@@ -118,7 +127,7 @@ These recipes have been tested by me :)
 *Reference: https://www.budgetbytes.com/curried-chickpeas-spinach/*
 
 <div style="text-align:center">
-    <img src="../../images/random/quick-food/lentil-spinach.JPG" width="500"/>
+    <img src="../../images/random/simple-food/lentil-spinach.JPG" width="500"/>
     <p style="font-style: italic;">Spinach lentil curry with rice</p>
 </div>
 
@@ -133,7 +142,7 @@ These recipes have been tested by me :)
 *Reference: https://www.delish.com/cooking/recipe-ideas/a26090091/tofu-stir-fry-recipe*
 
 <div style="text-align:center">
-    <img src="../../images/random/quick-food/saute-tofu.JPG" width="500"/>
+    <img src="../../images/random/simple-food/saute-tofu.JPG" width="500"/>
     <p style="font-style: italic;">Tofu Stir-Fry</p>
 </div>
 
@@ -147,7 +156,7 @@ These recipes have been tested by me :)
 *Reference: https://tasty.co/recipe/healthier-fried-rice*
 
 <div style="text-align:center">
-    <img src="../../images/random/quick-food/fried-rice.JPG" width="500"/>
+    <img src="../../images/random/simple-food/fried-rice.JPG" width="500"/>
     <p style="font-style: italic;">Fried rice</p>
 </div>
 
