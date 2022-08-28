@@ -53,3 +53,10 @@ utterance:
   issue-term: title   # Choose the mapping between blog posts and GitHub issues. 
   theme: dark-blue # Choose an Utterances theme that matches your blog. 'github-light' is default
   label: blog-comments # Choose the label that will be assigned to issues created by Utterances.
+
+# Code highlight
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
