@@ -67,6 +67,30 @@ These recipes have been tested by me :slightly_smiling_face:
     <p style="font-style: italic;">Black beans salad (I ate a few then realized I should take a picture)</p>
 </div>
 
+### Crunchy Wrap
+
+| Ingredients | Instructions |
+| --- | --- |
+| - Cashews or nuts<br>- Peanut butter<br>- Honey or maple syrup<br>- Vinegar<br>- Coleslaw<br>- Chickpeas<br>- Tortilla | - Chop the nuts<br>- Mix peanut butter, honey/maple syrup, vinegar together<br>- Add coleslaw and chickpeas to the salad dressing mixture, then mix well<br>- Wrap the salad with tortillas  |
+
+*Reference: https://youtu.be/PlHuORrY8t8?t=991*
+
+### Couscous Salad
+
+| Ingredients | Instructions |
+| --- | --- |
+| - Couscous<br>- Cucumber<br>- Tomatoes<br>- Bell pepper<br>- Garlic powder<br>- Feta<br>- Vinegar<br> | - Add hot water and garlic powder to the couscous with the ratio 1:1, then wait for 5 minutes<br>- Chop cucumber, tomatoes, bell pepper, and feta<br>- Combine the chopped ingredients with the couscous and mix them well<br>- Add vinegar, maybe a bit of salt and pepper for taste |
+
+*Reference: https://youtu.be/PlHuORrY8t8?t=67*
+
+### Brown rice noodle
+
+| Ingredients | Instructions |
+| --- | --- |
+| - Brown rice noodles<br>- Carrots<br>- Cucumber<br>- Eggs<br>- Edamame<br>- Chicken bouillon cube | - Boil the eggs<br>- Chop carrots and cucumber<br>- In a bowl, add  hot water and a chicken bouillon cube with the ratio 1 cup water:1 cube<br>- Add noodles, chopped carrots, chopped cucumber, edamame, and eggs to the broth |
+
+*Reference: https://www.cookinglight.com/food/recipe-finder/vegetable-brown-rice-noodle-salad-recipe*
+
 ### Egg Sandwich
 
 | Ingredients | Instructions |
