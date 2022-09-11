@@ -21,7 +21,9 @@ This MMM guy has a good [post](https://www.mrmoneymustache.com/2012/03/29/killin
 
 These recipes have been tested by me :slightly_smiling_face:
 
-## Oats with fruits and milk
+## Super quick
+
+### Oats with fruits and milk
 
 | Ingredients | Instructions |
 | --- | --- |
@@ -32,31 +34,19 @@ These recipes have been tested by me :slightly_smiling_face:
     <p style="font-style: italic;">Oats with apples, grapes and milk</p>
 </div>
 
-## Egg Mayo Sandwich
-
-| Ingredients | Instructions |
-| --- | --- |
-| - Sandwich bread<br>- Eggs<br>- Letuce<br>- Mayonnaise<br>- Salt<br>- Pepper | - Boil the eggs<br>- Mix boiled eggs with mayo<br>- Spread the mixture on one slice of bread<br>- Sprinkle a bit of salt and pepper |
-
-## Banana Peanut Butter Sandwich
-
-| Ingredients | Instructions |
-| --- | --- |
-| - Banana(s)<br>- Peanut butter<br>- Sandwich bread | - Spread the peanut butter on 2 slices of bread<br>- Place banana slices on the bread |
-
-## Chicken Broccoli Potatoes
+### Chicken Broccoli Potatoes
 
 | Ingredients | Instructions |
 | --- | --- |
 | - Chicken thigh<br>- Broccoli<br>- Potatoes (any) | - Steam the chicken, broccoli, and potatoes<br> |
 
-## Pesto Chickpea Salad
+### Pesto Chickpea Salad
 
 | Ingredients | Instructions |
 | --- | --- |
 | - Canned Chickpeas<br>- Basil pesto<br>- Mayonnaise | - Rinse and drain the chickpeas<br>- Add mayo, pesto, and chickpeas to a bowl and mix them well |
 
-## Black Beans Salad
+### Black Beans Salad
 
 | Ingredients | Instructions |
 | --- | --- |
@@ -67,7 +57,7 @@ These recipes have been tested by me :slightly_smiling_face:
     <p style="font-style: italic;">Black beans salad (I ate a few then realized I should take a picture)</p>
 </div>
 
-## Crunchy Wrap
+### Crunchy Wrap
 
 | Ingredients | Instructions |
 | --- | --- |
@@ -75,7 +65,7 @@ These recipes have been tested by me :slightly_smiling_face:
 
 *Reference: https://youtu.be/PlHuORrY8t8?t=991*
 
-## Couscous Salad
+### Couscous Salad
 
 | Ingredients | Instructions |
 | --- | --- |
@@ -83,15 +73,33 @@ These recipes have been tested by me :slightly_smiling_face:
 
 *Reference: https://youtu.be/PlHuORrY8t8?t=67*
 
-## Brown rice noodle
+### Banana Peanut Butter Sandwich
 
 | Ingredients | Instructions |
 | --- | --- |
-| - Brown rice noodles<br>- Carrots<br>- Cucumber<br>- Eggs<br>- Edamame<br>- Chicken bouillon cube | - Boil the eggs<br>- Chop carrots and cucumber<br>- In a bowl, add  hot water and a chicken bouillon cube with the ratio 1 cup water:1 cube<br>- Add noodles, chopped carrots, chopped cucumber, edamame, and eggs to the broth |
+| - Banana(s)<br>- Peanut butter<br>- Sandwich bread | - Spread the peanut butter on 2 slices of bread<br>- Place banana slices on the bread |
 
-*Reference: https://www.cookinglight.com/food/recipe-finder/vegetable-brown-rice-noodle-salad-recipe*
+### Egg Mayo Sandwich
 
-## Egg Sandwich
+| Ingredients | Instructions |
+| --- | --- |
+| - Sandwich bread<br>- Eggs<br>- Letuce<br>- Mayonnaise<br>- Salt<br>- Pepper | - Boil the eggs<br>- Mix boiled eggs with mayo<br>- Spread the mixture on one slice of bread<br>- Sprinkle a bit of salt and pepper |
+
+### Poached Eggs & Avocado
+
+| Ingredients | Instructions |
+| --- | --- |
+| - 4 eggs<br>- 1 avocado | - Poach the eggs<br>- Sprinkle a bit of salt of pepper<br>- Cut the avocado in half and eat with the eggs |
+
+### Chicken, Cauliflower, Potato Mashup
+
+| Ingredients | Instructions |
+| --- | --- |
+| - Chicken breast<br>- Cauliflower<br>- Potatoes (any)<br>- Bouillon cube | - Chop the potatoes into byte size<br>- Cut the cauliflower into small florets<br>- Put the potatoes, cauliflower florets, and chicken breast into a pot<br>- Add a bit of water (maybe 1 cup)<br>- Add the scrumbled bouillon cube into the pot<br>- Cover, bring to a boil, and wait for around 15 minutes<br>- Smash the potatoes and califlowers | 
+
+## Slightly quick
+
+### Egg Sandwich
 
 | Ingredients | Instructions |
 | --- | --- |
@@ -102,8 +110,42 @@ These recipes have been tested by me :slightly_smiling_face:
     <p style="font-style: italic;">Egg sandwich</p>
 </div>
 
+### Zucchini Frittata
 
-## Mushroom & Ricotta White Pizza
+| Ingredients | Instructions |
+| --- | --- |
+| - 2 eggs<br>- 1 zucchini<br>- Salt and pepper | - Chop zucchini into thin slices<br>- Heat the oil in the skillet<br>- Add chopped zucchini and stir for a few seconds<br>- Beat the eggs in a bowl and add the beaten eggs in the skillet<br>- Sprinkle a bit of salt and pepper  |
+
+### Brown Rice Noodle
+
+| Ingredients | Instructions |
+| --- | --- |
+| - Brown rice noodles<br>- Carrots<br>- Cucumber<br>- Eggs<br>- Edamame<br>- Chicken bouillon cube | - Boil the eggs<br>- Chop carrots and cucumber<br>- In a bowl, add  hot water and a chicken bouillon cube with the ratio 1 cup water:1 cube<br>- Add noodles, chopped carrots, chopped cucumber, edamame, and eggs to the broth |
+
+*Reference: https://www.cookinglight.com/food/recipe-finder/vegetable-brown-rice-noodle-salad-recipe*
+
+### Lentil Spinach Curry
+
+| Ingredients | Instructions |
+| --- | --- |
+| - Canned lentils (you can also use chickpeas)<br>- Garlic<br>- Onion<br>- Curry powder<br>- Paprika (or any spicy powder)<br>- Tomato paste<br>- Salt<br>- Tumeric<br>- Cumin<br>- Spinach | - Sauté chopped onion and garlic for 1 minute in an instant pot<br>- Add curry powder, paprika, cumin, salt and sauté for around 30 seconds<br>- Pour the lentils into the garlic onion mixture pot<br>- Canned lentils usually have water in them so you don't need to add water; otherwise, add a bit of water in the pot<br>- Add tomato paste<br>- Change the instant pot mode to pressure cook and wait for 20 minutes<br>- Turn off the instant pot and add the spinach and stir for 1-2 minutes |
+
+*Reference: https://www.budgetbytes.com/curried-chickpeas-spinach/*
+
+<div style="text-align:center">
+    <img src="../../images/random/simple-food/lentil-spinach.JPG" width="500"/>
+    <p style="font-style: italic;">Spinach lentil curry with rice</p>
+</div>
+
+### Stir-fried Chicken, Cabbage/Brussels Sprouts, and Nuts
+
+| Ingredients | Instructions |
+| --- | --- |
+| - Nuts (any)<br>- Chicken breast<br>- Cabbage or brussels sprouts<br>- Salt and pepper | - Stir the chicken and chopped cabbage in a skillet<br>- Add a bit of salt and pepper<br>- Add some nuts |
+
+## Not too quick
+
+### Mushroom & Ricotta White Pizza
 
 | Ingredients | Instructions |
 | --- | --- |
@@ -116,7 +158,7 @@ These recipes have been tested by me :slightly_smiling_face:
     <p style="font-style: italic;">Mushroom & ricotta white pizza</p>
 </div>
 
-## Tofu Broccoli Pasta
+### Tofu Broccoli Pasta
 
 | Ingredients | Instructions |
 | --- | --- |
@@ -128,7 +170,7 @@ These recipes have been tested by me :slightly_smiling_face:
 </div>
 
 
-## Mushroom Spaghetti
+### Mushroom Spaghetti
 
 | Ingredients | Instructions |
 | --- | --- |
@@ -142,20 +184,7 @@ These recipes have been tested by me :slightly_smiling_face:
 </div>
 
 
-## Lentil Spinach Curry
-
-| Ingredients | Instructions |
-| --- | --- |
-| - Canned lentils (you can also use chickpeas)<br>- Garlic<br>- Onion<br>- Curry powder<br>- Paprika (or any spicy powder)<br>- Tomato paste<br>- Salt<br>- Tumeric<br>- Cumin<br>- Spinach | - Sauté chopped onion and garlic for 1 minute in an instant pot<br>- Add curry powder, paprika, cumin, salt and sauté for around 30 seconds<br>- Pour the lentils into the garlic onion mixture pot<br>- Canned lentils usually have water in them so you don't need to add water; otherwise, add a bit of water in the pot<br>- Add tomato paste<br>- Change the instant pot mode to pressure cook and wait for 20 minutes<br>- Turn off the instant pot and add the spinach and stir for 1-2 minutes |
-
-*Reference: https://www.budgetbytes.com/curried-chickpeas-spinach/*
-
-<div style="text-align:center">
-    <img src="../../images/random/simple-food/lentil-spinach.JPG" width="500"/>
-    <p style="font-style: italic;">Spinach lentil curry with rice</p>
-</div>
-
-## Tofu Stir-Fry
+### Tofu Stir-Fry
 
 | Ingredients | Instructions |
 | --- | --- |
@@ -171,7 +200,7 @@ These recipes have been tested by me :slightly_smiling_face:
 </div>
 
 
-## Fried rice
+### Fried rice
 
 | Ingredients | Instructions |
 | --- | --- |
@@ -183,7 +212,6 @@ These recipes have been tested by me :slightly_smiling_face:
     <img src="../../images/random/simple-food/fried-rice.JPG" width="500"/>
     <p style="font-style: italic;">Fried rice</p>
 </div>
-
 
 ## Snacks
 
