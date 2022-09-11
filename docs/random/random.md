@@ -4,7 +4,7 @@ title: Random
 has_children: true
 nav_order: 3
 permalink: /docs/random
-last_modified_date: now
+last_modified_date: 2022-09-05
 ---
 
 # Random

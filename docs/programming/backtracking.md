@@ -14,7 +14,7 @@ math: mathjax2
 
 Backtracking is one of the complete search, aka brute force techniques. Basically, we explore all possible scenarios to find the solution. This is one of the most important techniques in competitive programming. We usually think of a brute force solution first when reading a problem. If the constraint is large, we need to come up with a better way as the complete search can receive TLE (Time Limit Exceeded). Suppose we want to enumerate all permutations of $$ \{ 1,2,3,...,n \} $$, this requires $$ O(n!) $$. So one of the hints for brute force solution is that the problem has small constraint.
 
-### How does it work?
+## How does it work?
 
 Backtracking is usually implemented recursively. That's why we usually hear the term "recursive backtracking". So how does it work? Imagine we have a tree. Starting with a root node, we choose a path to explore downwards. If we haven't found the solution, we backtrack and explore a path in the subtree. See figures below.
 
@@ -111,11 +111,11 @@ def dfs(v):
 dfs(1)
 ```
 
-### Get around maximum recursion depth
+## Get around maximum recursion depth
 
 Despite of its lengthiness, iteration exists for a reason. Recursion is elegant but it has a limited recursion depth, or we sometimes hear "stack overflows" or `RecursionError: maximum recursion depth exceeded` in Python. There are many ways to get around this. First method is to use iteration if possible. Second method is that we can prune infeasible search space early. When using recursive backtracking, if we encounter a partial solution that won't lead to a full solution, then prune the search and explore a different path. Another way is to optimize your source code. For example, passing array as an argument in a recursive function may cause a problem when you forget to pass by reference. In other words, every time the function calls itself, it will make a copy of the array. Therefore, when dealing with bulky data structures, just make them as global variables (don't do this in production code). Another example is that string manipution in Python can be slow because string in Python is immutable. To avoid this, you can use a list then join it afterwards since list is mutable. If you want to read more about tricks and tips, check out the [Competitive Programming 4](https://cpbook.net/){:target="_blank"} book, section 3.2.3.
 
-### 8 queens problem
+## 8 queens problem
 
 One of the classic examples of using backtracking is the 8 queens problem. The problem asks you to place 8 queens on an $$ 8 \times 8 $$ chessboard such that no 2 queens attack each other. This means no 2 queens share the same row, column, or diagonal.
 
@@ -126,7 +126,7 @@ A naive solution would generate all possible positions for 8 queens without chec
     <p style="font-style: italic;">3 solutions to 8 queens problem from Wikipedia</p>
 </div>
 
-### $$ N $$ queens problem
+## $$ N $$ queens problem
 
 $$ N $$ queens problem is a general version of the 8 queens problem. The question asks you to place $$ N $$ queens on an $$ N \times N $$ chessboard such that no 2 queens attack each other.
 
@@ -161,7 +161,7 @@ dfs(0)
 return ans
 ```
 
-### References
+## References
 
 1. [Competitive Programming 4](https://cpbook.net/){:target="_blank"} book, section 3.2.3
 2. [Eight queens puzzle](https://en.wikipedia.org/wiki/Eight_queens_puzzle){:target="_blank"} from Wikipedia

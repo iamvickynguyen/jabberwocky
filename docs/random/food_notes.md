@@ -2,7 +2,7 @@
 layout: default
 title: Food Notes
 parent: Random
-last_modified_date: now
+last_modified_date: 2022-09-05
 math: mathjax2
 ---
 
@@ -12,27 +12,27 @@ math: mathjax2
 1. TOC
 {:toc}
 
-### Healthy Eating Plate
+## Healthy Eating Plate
 
 <div style="text-align:center">
     <img src="https://cdn1.sph.harvard.edu/wp-content/uploads/sites/30/2012/09/HEPJan2015.jpg" />
     <p style="font-style: italic;">Healthy Eating Plate from The Nutrition Source</p>
 </div>
 
-### Carbohydrates
+## Carbohydrates
 
 - Carbohydrates contain glucose, which is converted into energy. It supports physical activities.
 - Healthy carbohydrates: whole grains, vegetables, fruits and beans
 - Unhealthy carbohydrates: white bread, pastries, sodas, and other highly processed or refined foods.
 
-#### Fiber
+### Fiber
 
 - A type of carbohydrate that our body cannot digest. It cannot be broken down into sugar molecules.
 - Fiber helps control blood sugar and hunger.
 - Soluble fiber (dissolves in water) helps lower glucose levels and blood cholesterol:  oatmeal, nuts, beans, lentils, apples and blueberries
 - Insoluble fiber (does not dissolve in water) helps food move through your digestive system:  wheat, whole wheat bread, whole grain couscous, brown rice, legumes, carrots, cucumbers and tomatoes
 
-### Protein
+## Protein
 
 - Our body do not store protein and you may not need as much as you think
 - Protein helps build and repair tissue; It makes up the enzymes which aids digesting food, and powers many chemical reactions and hemoglobin which carries oxygen in our blood.
@@ -41,21 +41,21 @@ math: mathjax2
 - Also good: poultry (chicken, turkey, duck), seafood (fish, crustaceans, mollusks), eggs
 - Not so good: red meat (beef, pork), and processed meats (bacon, sausages)
 
-### Fats and Cholesterol
+## Fats and Cholesterol
 
 - Oils and fats supply calories, and they help our body absorb fat-soluble vitamins such as A, D, E and K
 - "Good" unsaturated fats: vegetable oils (such as olive, canola, sunflower, soy, and corn), nuts, seeds, and fish
 - "Bad" fats - trans fats: processed foods (shortening margarine, cakes, anything fried)
 - Saturated fats: not as harmful as trans fat: red meat, butter, cheese, ice cream, plant-based fats (coconut oil, palm oil)
 
-### Water
+## Water
 
 - Very important. It keeps body working properly, helps your body flush wastes and stay at the right temperature, etc.
 - Drink 1.5L or 2L water or other fluid every day. Also depends on the amount of exercise
 - Limit to 750mL black coffee or 1L of black tea
 
 
-### References
+## References
 
 1. [The Nutrition Source - Carbohydrates, Havard, School of Public Health](https://www.hsph.harvard.edu/nutritionsource/carbohydrates/){:target="_blank"}
 2. [The Nutrition Source - Fiber, Havard, School of Public Health](https://www.hsph.harvard.edu/nutritionsource/carbohydrates/fiber/){:target="_blank"}

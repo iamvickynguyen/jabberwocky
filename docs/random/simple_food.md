@@ -21,7 +21,7 @@ This MMM guy has a good [post](https://www.mrmoneymustache.com/2012/03/29/killin
 
 These recipes have been tested by me :slightly_smiling_face:
 
-### Oats with fruits and milk
+## Oats with fruits and milk
 
 | Ingredients | Instructions |
 | --- | --- |
@@ -32,31 +32,31 @@ These recipes have been tested by me :slightly_smiling_face:
     <p style="font-style: italic;">Oats with apples, grapes and milk</p>
 </div>
 
-### Egg Mayo Sandwich
+## Egg Mayo Sandwich
 
 | Ingredients | Instructions |
 | --- | --- |
 | - Sandwich bread<br>- Eggs<br>- Letuce<br>- Mayonnaise<br>- Salt<br>- Pepper | - Boil the eggs<br>- Mix boiled eggs with mayo<br>- Spread the mixture on one slice of bread<br>- Sprinkle a bit of salt and pepper |
 
-### Banana Peanut Butter Sandwich
+## Banana Peanut Butter Sandwich
 
 | Ingredients | Instructions |
 | --- | --- |
 | - Banana(s)<br>- Peanut butter<br>- Sandwich bread | - Spread the peanut butter on 2 slices of bread<br>- Place banana slices on the bread |
 
-### Chicken Broccoli Potatoes
+## Chicken Broccoli Potatoes
 
 | Ingredients | Instructions |
 | --- | --- |
 | - Chicken thigh<br>- Broccoli<br>- Potatoes (any) | - Steam the chicken, broccoli, and potatoes<br> |
 
-### Pesto Chickpea Salad
+## Pesto Chickpea Salad
 
 | Ingredients | Instructions |
 | --- | --- |
 | - Canned Chickpeas<br>- Basil pesto<br>- Mayonnaise | - Rinse and drain the chickpeas<br>- Add mayo, pesto, and chickpeas to a bowl and mix them well |
 
-### Black Beans Salad
+## Black Beans Salad
 
 | Ingredients | Instructions |
 | --- | --- |
@@ -67,7 +67,7 @@ These recipes have been tested by me :slightly_smiling_face:
     <p style="font-style: italic;">Black beans salad (I ate a few then realized I should take a picture)</p>
 </div>
 
-### Crunchy Wrap
+## Crunchy Wrap
 
 | Ingredients | Instructions |
 | --- | --- |
@@ -75,7 +75,7 @@ These recipes have been tested by me :slightly_smiling_face:
 
 *Reference: https://youtu.be/PlHuORrY8t8?t=991*
 
-### Couscous Salad
+## Couscous Salad
 
 | Ingredients | Instructions |
 | --- | --- |
@@ -83,7 +83,7 @@ These recipes have been tested by me :slightly_smiling_face:
 
 *Reference: https://youtu.be/PlHuORrY8t8?t=67*
 
-### Brown rice noodle
+## Brown rice noodle
 
 | Ingredients | Instructions |
 | --- | --- |
@@ -91,7 +91,7 @@ These recipes have been tested by me :slightly_smiling_face:
 
 *Reference: https://www.cookinglight.com/food/recipe-finder/vegetable-brown-rice-noodle-salad-recipe*
 
-### Egg Sandwich
+## Egg Sandwich
 
 | Ingredients | Instructions |
 | --- | --- |
@@ -103,7 +103,7 @@ These recipes have been tested by me :slightly_smiling_face:
 </div>
 
 
-### Mushroom & Ricotta White Pizza
+## Mushroom & Ricotta White Pizza
 
 | Ingredients | Instructions |
 | --- | --- |
@@ -116,7 +116,7 @@ These recipes have been tested by me :slightly_smiling_face:
     <p style="font-style: italic;">Mushroom & ricotta white pizza</p>
 </div>
 
-### Tofu Broccoli Pasta
+## Tofu Broccoli Pasta
 
 | Ingredients | Instructions |
 | --- | --- |
@@ -128,7 +128,7 @@ These recipes have been tested by me :slightly_smiling_face:
 </div>
 
 
-### Mushroom Spaghetti
+## Mushroom Spaghetti
 
 | Ingredients | Instructions |
 | --- | --- |
@@ -142,7 +142,7 @@ These recipes have been tested by me :slightly_smiling_face:
 </div>
 
 
-### Lentil Spinach Curry
+## Lentil Spinach Curry
 
 | Ingredients | Instructions |
 | --- | --- |
@@ -155,7 +155,7 @@ These recipes have been tested by me :slightly_smiling_face:
     <p style="font-style: italic;">Spinach lentil curry with rice</p>
 </div>
 
-### Tofu Stir-Fry
+## Tofu Stir-Fry
 
 | Ingredients | Instructions |
 | --- | --- |
@@ -171,7 +171,7 @@ These recipes have been tested by me :slightly_smiling_face:
 </div>
 
 
-### Fried rice
+## Fried rice
 
 | Ingredients | Instructions |
 | --- | --- |
@@ -185,7 +185,7 @@ These recipes have been tested by me :slightly_smiling_face:
 </div>
 
 
-### Snacks
+## Snacks
 
 - No junk food
 - Fruits (apples, bananas, oranges, grapes, etc.)
