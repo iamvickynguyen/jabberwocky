@@ -97,6 +97,11 @@ These recipes have been tested by me :slightly_smiling_face:
 | --- | --- |
 | - Chicken breast<br>- Cauliflower<br>- Potatoes (any)<br>- Bouillon cube | - Chop the potatoes into byte size<br>- Cut the cauliflower into small florets<br>- Put the potatoes, cauliflower florets, and chicken breast into a pot<br>- Add a bit of water (maybe 1 cup)<br>- Add the scrumbled bouillon cube into the pot<br>- Cover, bring to a boil, and wait for around 15 minutes<br>- Smash the potatoes and califlowers | 
 
+<div style="text-align:center">
+    <img src="../../images/random/simple-food/smashed.JPG" width="500"/>
+    <p style="font-style: italic;">Chicken, cauliflower, potato mashup</p>
+</div>
+
 ## Slightly quick
 
 ### Egg Sandwich
